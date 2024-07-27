@@ -1,4 +1,4 @@
-# E-commerce-website
+# E-commerce Website
 <br>
 E-commerce-website using html, css and java script.
 <br>
